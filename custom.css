@@ -41,9 +41,6 @@ html, body {
  url('img/hot-air-balloon-clipart.png')no-repeat center;
  background-size:cover;
     }
-    .h1{
-        font-family: 'Poppins', sans-serif;
-    }
     /*media to fit to all screens*/
     @media(min-width:768px){
       h1{
