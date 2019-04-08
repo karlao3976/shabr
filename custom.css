@@ -71,5 +71,14 @@ html, body {
            font-size:120px
       }
     }
+#right {
+        text-align: left;
+    }
 
-        
+    h1 {
+        text-align: center;
+    }
+    
+    #fun1{
+        opacity:1.0;
+    }
